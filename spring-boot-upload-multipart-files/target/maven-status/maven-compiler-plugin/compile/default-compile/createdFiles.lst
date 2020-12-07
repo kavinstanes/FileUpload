@@ -1,0 +1,7 @@
+com\assessment\spring\files\upload\SpringBootUploadFilesApplication.class
+com\assessment\spring\files\upload\controller\FilesController.class
+com\assessment\spring\files\upload\service\FilesStorageServiceImpl.class
+com\assessment\spring\files\upload\service\FilesStorageService.class
+com\assessment\spring\files\upload\message\ResponseMessage.class
+com\assessment\spring\files\upload\model\FileInfo.class
+com\assessment\spring\files\upload\exception\FileUploadExceptionAdvice.class

@@ -1,0 +1,79 @@
+2020-12-07T10:50:04.215-0500 INFO Starting SpringBootUploadFilesApplication on DESKTOP-S1RVKNN with PID 504 (C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files\target\classes started by user1 in C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files)
+2020-12-07T10:50:04.218-0500 DEBUG Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-12-07T10:50:04.221-0500 INFO No active profile set, falling back to default profiles: default
+2020-12-07T10:50:05.339-0500 INFO Started SpringBootUploadFilesApplication in 1.371 seconds (JVM running for 2.526)
+2020-12-07T10:50:29.865-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:50:29.874-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:50:47.623-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:50:47.624-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:50:52.221-0500 INFO Inside FilesController -> uploadFile :: START 
+2020-12-07T10:50:52.226-0500 INFO Inside FilesController -> uploadFile :: END 
+2020-12-07T10:50:52.233-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:50:52.235-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:51:01.321-0500 INFO Inside FilesController -> uploadFile :: START 
+2020-12-07T10:51:01.324-0500 INFO Inside FilesController -> uploadFile :: END 
+2020-12-07T10:51:01.329-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:51:01.331-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:52:28.889-0500 INFO Starting SpringBootUploadFilesApplication on DESKTOP-S1RVKNN with PID 3304 (C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files\target\classes started by user1 in C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files)
+2020-12-07T10:52:28.892-0500 DEBUG Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-12-07T10:52:28.892-0500 INFO No active profile set, falling back to default profiles: default
+2020-12-07T10:52:30.181-0500 INFO Started SpringBootUploadFilesApplication in 1.574 seconds (JVM running for 2.573)
+2020-12-07T10:52:37.327-0500 INFO Inside FilesController -> uploadFile :: START 
+2020-12-07T10:52:37.333-0500 INFO Inside FilesController -> uploadFile :: END 
+2020-12-07T10:52:37.373-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:52:37.381-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:52:55.660-0500 INFO Inside FilesController -> uploadFile :: START 
+2020-12-07T10:52:55.661-0500 INFO Inside FilesController -> uploadFile :: END 
+2020-12-07T10:52:55.668-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:52:55.670-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:53:53.424-0500 INFO Starting SpringBootUploadFilesApplication on DESKTOP-S1RVKNN with PID 15316 (C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files\target\classes started by user1 in C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files)
+2020-12-07T10:53:53.427-0500 DEBUG Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-12-07T10:53:53.430-0500 INFO No active profile set, falling back to default profiles: default
+2020-12-07T10:53:54.644-0500 INFO Started SpringBootUploadFilesApplication in 1.459 seconds (JVM running for 2.451)
+2020-12-07T10:54:04.529-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:54:04.531-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:54:07.125-0500 INFO Inside FilesController -> uploadFile :: START 
+2020-12-07T10:54:07.130-0500 INFO Inside FilesController -> uploadFile :: END 
+2020-12-07T10:54:07.157-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:54:07.164-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:54:21.264-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:54:21.265-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:54:24.400-0500 INFO Inside FilesController -> uploadFile :: START 
+2020-12-07T10:54:24.401-0500 INFO Inside FilesController -> uploadFile :: END 
+2020-12-07T10:54:24.407-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:54:24.408-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:55:27.329-0500 INFO Starting SpringBootUploadFilesApplication on DESKTOP-S1RVKNN with PID 768 (C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files\target\classes started by user1 in C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files)
+2020-12-07T10:55:27.331-0500 DEBUG Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-12-07T10:55:27.334-0500 INFO No active profile set, falling back to default profiles: default
+2020-12-07T10:55:28.473-0500 INFO Started SpringBootUploadFilesApplication in 1.369 seconds (JVM running for 2.382)
+2020-12-07T10:55:32.552-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:55:32.562-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:55:42.861-0500 INFO Inside FilesController -> uploadFile :: START 
+2020-12-07T10:55:42.862-0500 ERROR Exception at FilesController -> uploadFile :: FILE PRE-EXISTS
+2020-12-07T10:55:42.862-0500 INFO Inside FilesController -> uploadFile :: END 
+2020-12-07T10:55:42.869-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:55:42.871-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:55:45.817-0500 INFO Inside FilesController -> uploadFile :: START 
+2020-12-07T10:55:45.822-0500 INFO Inside FilesController -> uploadFile :: END 
+2020-12-07T10:55:45.828-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T10:55:45.830-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T10:58:56.775-0500 INFO Starting SpringBootUploadFilesApplication on DESKTOP-S1RVKNN with PID 8976 (C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files\target\classes started by user1 in C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files)
+2020-12-07T10:58:56.778-0500 DEBUG Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-12-07T10:58:56.779-0500 INFO No active profile set, falling back to default profiles: default
+2020-12-07T10:58:57.935-0500 INFO Started SpringBootUploadFilesApplication in 1.394 seconds (JVM running for 2.379)
+2020-12-07T11:02:04.693-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T11:02:04.701-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T11:02:29.235-0500 INFO Inside FilesController -> uploadFile :: START 
+2020-12-07T11:02:29.240-0500 INFO Inside FilesController -> uploadFile :: END 
+2020-12-07T11:02:29.247-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T11:02:29.249-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T11:08:50.341-0500 INFO Starting SpringBootUploadFilesApplication on DESKTOP-S1RVKNN with PID 11040 (C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files\target\classes started by user1 in C:\Users\user1\Desktop\FileUpload\spring-boot-upload-multipart-files)
+2020-12-07T11:08:50.343-0500 DEBUG Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-12-07T11:08:50.346-0500 INFO No active profile set, falling back to default profiles: default
+2020-12-07T11:08:51.326-0500 INFO Started SpringBootUploadFilesApplication in 1.174 seconds (JVM running for 2.125)
+2020-12-07T11:08:58.745-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T11:08:58.753-0500 INFO Inside FilesController -> getListFiles :: END 
+2020-12-07T11:09:05.960-0500 INFO Inside FilesController -> uploadFile :: START 
+2020-12-07T11:09:05.965-0500 INFO Inside FilesController -> uploadFile :: END 
+2020-12-07T11:09:05.978-0500 INFO Inside FilesController -> getListFiles :: START 
+2020-12-07T11:09:05.982-0500 INFO Inside FilesController -> getListFiles :: END 

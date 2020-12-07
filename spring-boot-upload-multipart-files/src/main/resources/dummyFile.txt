@@ -1,0 +1,8 @@
+# Spring Boot Upload Files example - Multipart File
+
+## Run Spring Boot application
+```
+mvn spring-boot:run
+```
+
+## All URLS and properties can be changed in application.properties file
